@@ -1,0 +1,22 @@
+# Virtual environment
+uc3final/
+venv/
+.venv/
+uv.lock
+test
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Logs
+*.log
